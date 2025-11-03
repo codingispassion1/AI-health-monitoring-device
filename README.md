@@ -5,7 +5,7 @@ This project is an IoT + AI system for real-time health monitoring.
 It tracks heart rate, oxygen level (SpO₂), and sends alerts if abnormal patterns are detected.
 
 ## 🛠️ Tech Stack
-- **Hardware**: ESP32, MAX30100 Pulse Oximeter
+- **Hardware**: ESP32, MAX30102 Pulse Oximeter
 - **Programe**: C++
 - **Database**: Arduino IOT cloud
 
