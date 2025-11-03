@@ -11,9 +11,9 @@ It tracks heart rate, oxygen level (SpO₂), and sends alerts if abnormal patter
 - **Frontend**: React Dashboard
 - **Database**: Firebase
 
-## Wire Connection 
+# Wire Connection 
 
-# MAX30102        ESP32 (MCU32)
+## MAX30102        ESP32 (MCU32)
 ---------        --------------
 1. VIN   --------->  3.3V
 2. GND   --------->  GND
