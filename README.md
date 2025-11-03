@@ -15,11 +15,11 @@ It tracks heart rate, oxygen level (SpO₂), and sends alerts if abnormal patter
 
 MAX30102        ESP32 (MCU32)
 ---------        --------------
-VIN   --------->  3.3V
-GND   --------->  GND
-SCL   --------->  GPIO 22
-SDA   --------->  GPIO 21
-INT   --------->  (optional, GPIO 19)
+1. VIN   --------->  3.3V
+2. GND   --------->  GND
+3. SCL   --------->  GPIO 22
+4. SDA   --------->  GPIO 21
+5. INT   --------->  (optional, GPIO 19)
 
 ## 🚀 How to Run
 1. ESP32 with Arduino IDE.
