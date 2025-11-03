@@ -6,10 +6,8 @@ It tracks heart rate, oxygen level (SpO₂), and sends alerts if abnormal patter
 
 ## 🛠️ Tech Stack
 - **Hardware**: ESP32, MAX30100 Pulse Oximeter
-- **Backend**: Flask (Python)
-- **AI**: Anomaly detection (basic rules)
-- **Frontend**: React Dashboard
-- **Database**: Firebase
+- **Programe**: C++
+- **Database**: Arduino IOT cloud
 
 # Wire Connection 
 
